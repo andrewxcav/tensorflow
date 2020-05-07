@@ -53,8 +53,8 @@ endif
 SIFIVE_FE310_LIB_URL := "https://github.com/sifive/freedom-e-sdk/archive/baeeb8fd497a99b3c141d7494309ec2e64f19bdf.zip"
 SIFIVE_FE310_LIB_MD5 := "06ee24c4956f8e21670ab3395861fe64"
 
-KISSFFT_URL="https://github.com/mborgerding/kissfft/archive/1efe72041e00868c3c71eaf569343ee132a4fbb9.zip"
-KISSFFT_MD5="ee6dd8f182d327269b32c838cbc3645d"
+KISSFFT_URL="https://github.com/mborgerding/kissfft/archive/v130.zip"
+KISSFFT_MD5="438ba1fef5783cc5f5f201395cc477ca"
 
 RUY_URL="https://github.com/google/ruy/archive/1b313682ef8b8fc8ed08719c610d1c3503b016bf.zip"
 RUY_MD5="2d54f058f8f7120dfc1ecee79dbf259e"
